@@ -1,0 +1,12 @@
+/* CSS Da lista! */
+
+ul {
+    border: 1px solid blue;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+li{
+    color: darkblue;
+    padding: 10px;
+}
